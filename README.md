@@ -10,10 +10,10 @@
 ![platform](https://img.shields.io/badge/Android-6.0%2B-2c2c2c?logo=android&logoColor=white)
 ![license](https://img.shields.io/badge/license-Proprietary-ff2e97)
 
-Coaches build workouts, assign them per client, and follow every session.
-Clients get a fast, focused app to actually train with — live sessions, rest
-timers, history, and progress charts. One offline catalog of **~1500 exercises**,
-in **English and Spanish**.
+Coaches build workouts, assign and schedule them per client, and follow every
+session. Clients get a fast, focused app to actually train with — a weekly
+schedule, live sessions, rest timers, history, and progress charts. One offline
+catalog of **~1500 exercises**, in **English and Spanish**.
 
 **[⬇️ Download the latest release →](../../releases/latest)**
 
@@ -64,6 +64,7 @@ This repository hosts the official Android builds. Grab one from the
 **For coaches**
 - A reusable **template library** — build once, assign to many.
 - Create accounts for your clients and **assign workouts per person**.
+- **Schedule each client's week** — a workout per weekday or a rotating cycle.
 - Review each client's **logs, weekly volume, full history, and body weight**.
 - Set **weekly workout goals** and see who's on track.
 
@@ -75,6 +76,8 @@ This repository hosts the official Android builds. Grab one from the
 **In the app**
 - **Workout building** — drag to reorder, warm-up sets, decimal weights,
   per-exercise rest, and coaching notes that travel with an assigned workout.
+- **Weekly & cyclic scheduling** — give each trainee a weekday plan or a rotating
+  cycle; today's session is highlighted and a drifted cycle re-syncs in a tap.
 - **Progress & reports** — weekly workout tracker, a weekly muscle ranking with
   medals, per-set estimated 1RM, and per-exercise progression charts.
 - **History at a glance** — a month calendar and a GitHub-style year heatmap.
