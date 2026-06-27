@@ -6,7 +6,7 @@
 
 ### Strength training built for coaches and the clients they train.
 
-![version](https://img.shields.io/badge/version-1.2.0-b113e1)
+![version](https://img.shields.io/badge/version-1.3.0-b113e1)
 ![platform](https://img.shields.io/badge/Android-6.0%2B-2c2c2c?logo=android&logoColor=white)
 ![license](https://img.shields.io/badge/license-Proprietary-ff2e97)
 
