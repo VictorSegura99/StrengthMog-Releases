@@ -6,7 +6,7 @@
 
 ### Strength training built for coaches and the clients they train.
 
-![version](https://img.shields.io/badge/version-1.4.1-b113e1)
+![version](https://img.shields.io/badge/version-1.5.0-b113e1)
 ![platform](https://img.shields.io/badge/Android-6.0%2B-2c2c2c?logo=android&logoColor=white)
 ![license](https://img.shields.io/badge/license-Proprietary-ff2e97)
 
@@ -16,6 +16,8 @@ schedule, live sessions, rest timers, history, and progress charts. One offline
 catalog of **~1500 exercises**, in **English and Spanish**.
 
 **[⬇️ Download the latest release →](../../releases/latest)**
+&nbsp;·&nbsp;
+**[▶️ Or use it in your browser →](https://strengthmog.web.app/app/)**
 
 </div>
 
@@ -41,6 +43,13 @@ This repository hosts the official Android builds. Grab one from the
 
 > 🔒 StrengthMog is invite-based. You sign in with an ID created by your coach —
 > see [Getting an account](#-getting-an-account).
+
+### 🍎 iPhone, iPad or desktop — no install
+
+The full app also runs in the browser at **[strengthmog.web.app/app](https://strengthmog.web.app/app/)**
+with the same account and the same data, live sessions included. On iOS, open it
+in Safari and tap **Share → Add to Home Screen** to get a full-screen icon just
+like a native app.
 
 ---
 
