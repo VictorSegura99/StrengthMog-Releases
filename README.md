@@ -6,7 +6,7 @@
 
 ### Strength training built for coaches and the clients they train.
 
-![version](https://img.shields.io/badge/version-1.9.0-b113e1)
+![version](https://img.shields.io/badge/version-1.10.0-b113e1)
 ![platform](https://img.shields.io/badge/Android-6.0%2B-2c2c2c?logo=android&logoColor=white)
 ![license](https://img.shields.io/badge/license-Proprietary-ff2e97)
 
@@ -31,7 +31,7 @@ This repository hosts the official Android builds. Grab one from the
 | Build | Size | Who it's for |
 |-------|------|--------------|
 | **`StrengthMog-arm64.apk`** | ~34 MB | **Almost everyone** — phones from ~2017 onward (arm64-v8a) |
-| `StrengthMog-universal.apk` | ~91 MB | Older 32-bit or non-standard devices; installs on anything |
+| `StrengthMog-universal.apk` | ~92 MB | Older 32-bit or non-standard devices; installs on anything |
 
 **Installing the APK** (sideload):
 
